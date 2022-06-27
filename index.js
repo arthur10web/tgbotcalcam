@@ -1,5 +1,5 @@
 const TelegramBot = require('node-telegram-bot-api')
-const TOKEN ='5357258635:AAHWGJIispbK6jMYDbhVoeT1oMCbAo5pMLA'
+const TOKEN ='5342194454:AAGa-6yMZ08AfZ3ICsZv7nOHb9P-du4OsXc'
 console.log("Bot is working")
 const fs=require('fs')
 const { brotliCompress } = require('zlib')
